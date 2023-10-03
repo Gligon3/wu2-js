@@ -28,9 +28,9 @@ Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. H
 Det som har gått bra med denna uppgift är variablerna, och operatorerna. Vet inte riktigt hur dte har gått i arrayen.
 
 
-
 ## Negativa erfarenheter
 
 Här beskriver du det som du anser har gått mindre bra med ditt projekt och analyserar hur du kan undvika detta i framtida projekt.
 
 Har glömt bort en hel del av if,loop och dom satserna. Tänker hur jag kan undvika detta senare i kursen är att va me på undervisningarna och kolla igenom hemma hur man håller på med de specifika satserna.
+Upplever att det va jobbigt att komma ihåg om dom och if 

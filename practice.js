@@ -45,6 +45,14 @@ function operators(element) {
 }
 
 function controlStructures(element) {
+  let a = 32
+  let b = 58
+  if (a === b) {
+    console.log('Om detta inte funkar')
+  } else {
+    console.log('Så kommer detta funka')
+  }
+
   // kod för att visa vad du lärt dig om kontrollstrukturer
   // if och loopar
   let controlStructures = 'controlStructures'
@@ -60,6 +68,7 @@ function arraysAndObjects (element) {
 }
 
 function domAndEvents (element) {
+  document.addEventListener()
   // kod för att visa vad du lärt dig om DOM och events
   // använd med html och listeners
   console.log(element, 'lyssna efter event för att ändra element')
