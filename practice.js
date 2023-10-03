@@ -29,6 +29,17 @@ function varsAndTypes(element) {
 }
 
 function operators(element) {
+  let a = 23
+  let b = 38 
+  let c = '30'
+
+  a === b 
+  a === c
+  b = 4;
+
+  let sum = a + b
+
+  console.log('additon')
   // kod för att visa vad du lärt dig om operatorer
   console.log('operators === ', 1 === 1)
 }
