@@ -17,7 +17,12 @@ export function setupPractice (element) {
 // du kan använda kontrollstrukturer och variabler etc. i 
 // andra moment än där funktionen heter så såklart
 function varsAndTypes(element) {
-  
+  let firstname;
+  firstname = 'firstname'
+  let lastname = 'efternamn'
+  let name = firstname + lastname;
+  name = firstname + '' + lastname;
+  let age = 18
   // kod för att visa vad du lärt dig om variabler och typer
   let varsAndTypes = 'varsAndTypes'
   console.log(varsAndTypes, typeof(varsAndTypes))
@@ -38,7 +43,7 @@ function controlStructures(element) {
 function arraysAndObjects (element) {
   let Objects = 'Objects'
   let arrays = 'arrays'
-  
+  const Numbers = [3, 4, 8, 10,] 
   // kod för att visa vad du lärt dig om arrays och objekt
   console.log(['arrays', {and: 'objects'}])
 }
