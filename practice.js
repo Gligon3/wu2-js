@@ -60,9 +60,8 @@ function controlStructures(element) {
 }
 
 function arraysAndObjects (element) {
-  let Objects = 'Objects'
-  let arrays = 'arrays'
   const Numbers = [3, 4, 8, 10,] 
+  console.log(Numbers)
   // kod för att visa vad du lärt dig om arrays och objekt
   console.log(['arrays', {and: 'objects'}])
 }
